@@ -26,7 +26,7 @@ Berikut merupakan kode etika (code of conduct) komunitas Deno Land Indonesia. Ko
 - **Pertimbangkan apapun.** Pikirkan tentang bagaimana kontribusi Anda akan memengaruhi orang lain di komunitas.
 - **Be open minded.** Merangkul orang-orang baru dan ide-ide baru. Komunitas kami terus berkembang dan kami menyambut perubahan positif.
 
-Jika Anda yakin seseorang melanggar kode etik, kami meminta Anda melaporkannya melalui email [denoland-id@griko.id](mailto:denoland-id@griko.id). Harap sertakan nama Anda dan deskripsi kejadian tersebut, dan kami akan menghubungi Anda secepatnya.
+Jika Anda yakin seseorang melanggar kode etik, kami meminta Anda melaporkannya melalui email [hey@denoland.id](mailto:hey@denoland.id). Harap sertakan nama Anda dan deskripsi kejadian tersebut, dan kami akan menghubungi Anda secepatnya.
 
 Peserta yang diminta menghentikan perilaku melecehkan diharapkan segera patuh. Jika peserta terlibat dalam perilaku melecehkan, Deno Land Indonesia dapat mengambil tindakan apa pun yang mereka anggap pantas, hingga dan termasuk pengusiran dari semua lingkup komunitas Deno Land Indonesia dan identifikasi peserta sebagai pelecehan terhadap anggota Deno Land Indonesia lainnya atau masyarakat umum.
 
@@ -52,6 +52,6 @@ This is a Code of Conduct for the Deno Land Indonesia community. This is [largel
 - **Be considerate.** Think about how your contribution will affect others in the community.
 - **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [denoland-id@griko.id](mailto:denoland-id@griko.id). Please include your name and a description of the incident, and we will get back to you ASAP.
+If you believe someone is violating the code of conduct, we ask that you report it by emailing [hey@denoland.id](mailto:hey@denoland.id). Please include your name and a description of the incident, and we will get back to you ASAP.
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the Deno Land Indonesia may take any action they deem appropriate, up to and including expulsion from all Deno Land Indonesia spaces and identification of the participant as a harasser to other Deno Land Indonesia members or the general public.
